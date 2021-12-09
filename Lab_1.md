@@ -14,8 +14,8 @@ $ service redis-server status
 
 $ redis-cli
 Тем самым подключились к серверу и можем исполнять следующие команды
-    
-    ![image](https://user-images.githubusercontent.com/95758544/145271484-0b4a6908-eb01-4144-8cc2-1248d9dab10b.png)
+
+![image](https://user-images.githubusercontent.com/95758544/145271484-0b4a6908-eb01-4144-8cc2-1248d9dab10b.png)
 
 $ config get *
     
