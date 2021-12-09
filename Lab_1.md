@@ -57,6 +57,18 @@ $ config get *
 
 Получим значение -1.
 
+Теперь поработаем с хешами.
+Синтаксис создания хэша: hmset <hash_name> <key_1> <value_1> <key_2> <value_2> ...
+
+Зададим следующий хэш:
+
+![image](https://user-images.githubusercontent.com/95758544/145409569-b66bb67b-8956-4fae-baf8-b1d5f60634a1.png)
+
+Длаее можем посмотреть какие ключи в хэше и значения ключей:
+
+![image](https://user-images.githubusercontent.com/95758544/145409783-ff6ef550-d139-4326-bc37-6a3f3808e14c.png)
+
+![image](https://user-images.githubusercontent.com/95758544/145409824-e3a2d0bf-42ca-4bd7-aa43-77844e51d325.png)
 
 
 
