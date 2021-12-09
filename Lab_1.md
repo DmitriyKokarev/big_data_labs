@@ -17,6 +17,7 @@ $ redis-cli
     ![image](https://user-images.githubusercontent.com/95758544/145271484-0b4a6908-eb01-4144-8cc2-1248d9dab10b.png)
 
 $ config get *
+
 ![image](https://user-images.githubusercontent.com/95758544/145271966-c8c4e8c7-7f3b-4960-9ecb-645532558089.png)
 
 Создадим ключ "users:msg" и поместим в него значение: "{name: Segrey, likes: [redis]}"
