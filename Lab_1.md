@@ -90,3 +90,9 @@ $ config get *
 ЗАДАНИЕ 2.
 
 1. Выполнить скрипт:
+
+![image](https://user-images.githubusercontent.com/95758544/145439456-2b3ea5e3-0fcb-4e01-93ba-5d360b673f65.png)
+
+![image](https://user-images.githubusercontent.com/95758544/145439529-f543e7c2-db71-464b-afa2-cbc14c45d1f5.png)
+
+Результат выполнения в файле result_script_1.txt
