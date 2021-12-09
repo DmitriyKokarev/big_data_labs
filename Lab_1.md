@@ -1,5 +1,7 @@
 Лабораторная работа №1. Кокарев Д.В. РИМ-201211
 
+ЗАДАНИЕ 1.
+
 1. Установка redis
   $ sudo apt-get update
 
@@ -85,4 +87,6 @@ $ config get *
 ![image](https://user-images.githubusercontent.com/95758544/145426612-1636ec90-a572-4a09-b4ed-d3756ca1fefc.png)
 
 
+ЗАДАНИЕ 2.
 
+1. Выполнить скрипт:
