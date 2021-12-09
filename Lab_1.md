@@ -70,5 +70,19 @@ $ config get *
 
 ![image](https://user-images.githubusercontent.com/95758544/145409824-e3a2d0bf-42ca-4bd7-aa43-77844e51d325.png)
 
+Далее поработаем с множестваим и их объединениями:
+
+Создадим хэши rasp, mail и rtf
+
+![image](https://user-images.githubusercontent.com/95758544/145426263-cad1de75-9160-4db1-90ef-4bae03e0e454.png)
+
+Объединим хэши в два множества: priv и urfu
+
+![image](https://user-images.githubusercontent.com/95758544/145426514-fb1fc5a1-3818-4799-a045-fd0215a4c25c.png)
+
+Найдем объединение множеств:
+
+![image](https://user-images.githubusercontent.com/95758544/145426612-1636ec90-a572-4a09-b4ed-d3756ca1fefc.png)
+
 
 
