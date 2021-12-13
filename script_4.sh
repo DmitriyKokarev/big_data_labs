@@ -25,21 +25,6 @@ function upload {
 # Entry point
 clean
 
-echo "Time for upload 1 000 string row"
-echo "--------------------------"
-max_keys=1000
-generate
-time upload
-echo "--------------------------"
-echo ""
-
-echo "Time for upload 10 000 string row"
-max_keys=10000
-generate
-time upload
-echo "--------------------------"
-echo ""
-
 echo "Time for upload 100 000 string row"
 max_keys=100000
 generate
